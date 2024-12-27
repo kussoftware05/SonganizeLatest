@@ -1,0 +1,54 @@
+{"_persist": "{\"version\":1,\"rehydrated\":true}", 
+"authRegister": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\",\"loading\":false}",
+ "deleteSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+ "group": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"129\",\"group_name\":\"devTest\",\"userid\":\"691\",\"created_date\":\"2024-02-06 13:55:25\",\"mem_data\":[{\"guid\":\"129\",\"email\":\"Kussoftware@gmail.com\"}]}],\"records\":[],\"shareLists\":[]}", 
+ "inviteFriend": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":null,\"results\":[],\"records\":[],\"shareLists\":[]}",
+  "profile": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":{\"code\":200,\"id\":\"691\",\"username\":\"DeepakSingh\",\"firstname\":\"Deepak\",\"familyname\":\"SinghDev\",\"email\":\"Kussoftware@gmail.com\",\"message\":\"Get User Profile\"},\"records\":{}}", 
+ "searchSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+ "setlist": "{\"setlist_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"2\",\"event\":\"Event2\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-06 13:36:00\"},{\"id\":\"1\",\"event\":\"Event1\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-06 12:49:00\"}],\"records\":{},\"shareLists\":[],\"groupNames\":[{\"group_name\":\"devTest\"}],\"songResults\":[]}", 
+ "songanize": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+ "songanizeLists": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}",
+  "songsHiddens": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+ "updateSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}"}
+
+{"_persist": "{\"version\":1,\"rehydrated\":true}",
+ "auth": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\"}", 
+ "authRegister": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\"}", 
+ "deleteSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+ "group": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"129\",\"group_name\":\"devTest\",\"userid\":\"691\",\"created_date\":\"2024-02-06 13:55:25\",\"mem_data\":[{\"guid\":\"129\",\"email\":\"Kussoftware@gmail.com\"}]}],\"records\":[],\"shareLists\":[]}",
+  "inviteFriend": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":null,\"results\":[],\"records\":[],\"shareLists\":[]}", 
+  "profile": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":{\"code\":200,\"id\":\"691\",\"username\":\"DeepakSingh\",\"firstname\":\"Deepak\",\"familyname\":\"SinghDev1\",\"email\":\"Kussoftware@gmail.com\",\"message\":\"Get User Profile\"},\"records\":{}}", 
+  "searchSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+  "setlist": "{\"setlist_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"2\",\"event\":\"deep3\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 08:33:47\"},{\"id\":\"1\",\"event\":\"EventDev\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 07:56:00\"}],\"records\":{},\"shareLists\":[],\"groupNames\":[{\"group_name\":\"devTest\"}],\"songResults\":[]}", 
+  "songanize": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+  "songanizeLists": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+  "songsHiddens": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}", 
+  "updateSongs": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}"}
+
+
+
+  {"_persist": "{\"version\":1,\"rehydrated\":true}", "auth": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\",\"loading\":false}", "authRegister": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\",\"loading\":false}", "group": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"129\",\"group_name\":\"devTest\",\"userid\":\"691\",\"created_date\":\"2024-02-06 13:55:25\",\"mem_data\":[{\"guid\":\"129\",\"email\":\"Kussoftware@gmail.com\"}]}],\"records\":[],\"shareLists\":[]}", 
+  "inviteFriend": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":null,\"results\":[],\"records\":[],\"shareLists\":[]}", "profile": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":{\"code\":200,\"id\":\"691\",\"username\":\"DeepakSingh\",\"firstname\":\"Deepak\",\"familyname\":\"SinghDev1\",\"email\":\"Kussoftware@gmail.com\",\"message\":\"Get User Profile\"},\"records\":{}}", 
+  "setlist": "{\"setlist_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"2\",\"event\":\"deep3\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 08:33:47\"},{\"id\":\"1\",\"event\":\"EventDev\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 07:56:00\"}],\"records\":{},\"shareLists\":[],\"groupNames\":[{\"group_name\":\"devTest\"}],\"songResults\":[]}", 
+  "songanize": "{\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"records\":{}}"}
+
+
+  {"_persist": "{\"version\":1,\"rehydrated\":true}", 
+  "auth": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\",\"loading\":false}", 
+  "authRegister": "{\"isLoggedIn\":true,\"email\":null,\"password\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[],\"userid\":691,\"username\":\"kussoftware@gmail.com\",\"loading\":false}", 
+  "group": "{\"group_name\":null,\"loadingStart\":false,\"error\":\"Network Error\",\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"129\",\"group_name\":\"devTest\",\"userid\":\"691\",\"created_date\":\"2024-02-06 13:55:25\",\"mem_data\":[{\"guid\":\"129\",\"email\":\"Kussoftware@gmail.com\"}]}],\"records\":[],\"shareLists\":[]}",
+   "inviteFriend": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":null,\"results\":[],\"records\":[],\"shareLists\":[]}", 
+   "profile": "{\"group_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":{\"code\":200,\"id\":\"691\",\"username\":\"DeepakSingh\",\"firstname\":\"Deepak\",\"familyname\":\"SinghDev1\",\"email\":\"Kussoftware@gmail.com\",\"message\":\"Get User Profile\"},\"records\":{}}", 
+   "setlist": "{\"setlist_name\":null,\"loadingStart\":false,\"error\":null,\"success\":false,\"status\":\"success\",\"results\":[{\"id\":\"2\",\"event\":\"deep3\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 08:33:47\"},{\"id\":\"1\",\"event\":\"EventDev\",\"group_names\":[{\"group_name\":\"devTest\"}],\"event_date\":\"2024-02-09 07:56:00\"}],\"records\":{},\"shareLists\":[],\"groupNames\":[{\"group_name\":\"devTest\"}],\"songResults\":[]}", 
+  "songanize": "{\"loadingStart\":false,\"error\":\"Network Error\",\"success\":false,\"status\":\"pending\",\"records\":{},\"results\":[{\"id\":3041,\"userid\":\"691\",\"title\":\"\",\"interpret\":\"hello12\",\"link\":\"\",\"writer\":\"\",\"genre\":\"\",\"filename\":\"image_1707226500248.jpg\",\"type\":\"\",\"year\":\"2024\",\"week\":\"4\",\"code\":\"17072266561372797579.jpg\"},{\"id\":3038,\"userid\":\"691\",\"title\":\"demo\",\"interpret\":\"\",\"link\":\"\",\"writer\":\"\",\"genre\":\"\",\"filename\":\"image_1706515800069.jpg\",\"type\":\"\",\"year\":\"2024\",\"week\":\"4\",\"code\":\"1707223230977709257.jpg\"}]}"}
+
+
+  {"code": 200,
+"res_data":[{"id":3041,"userid":"691","title":"","interpret":"hello12","link":"","writer":"","genre":"","filename":"image_1707226500248.jpg","type":"","year":"2024",
+"week":"4","code":"17072266561372797579.jpg"},{"id":3038,"userid":"691","title":"demo","interpret":"","link":"","writer":"","genre":"","filename":"image_1706515800069.jpg","type":"","year":"2024",
+"week":"4","code":"1707223230977709257.jpg"}], "message": "Get Song List"}
+
+
+{"code": 200, "res_data":[{"id":"2", "event":"deep3","group_names":[{"group_name":"devTest"}],"event_date":"2024-02-09
+08:33:47"},{"id":"1", "event":"EventDev","group_names":[{"group_name":"devTest"}],"event_date":"2024-02-09
+07:56:00"}],"message": "Get All setlist."}
